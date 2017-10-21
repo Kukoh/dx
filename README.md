@@ -1,1 +1,1 @@
-# meducal: A Medical Education IT Project
+# meducal: Medical Education IT Projects
