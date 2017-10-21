@@ -1,1 +1,1 @@
-# dx
+# meducal: a medical IT project
